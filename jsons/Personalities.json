@@ -150,4 +150,19 @@
 "warMongering": 2,
 "uniques": ["Will not build [Manhattan Project]","Will not build [World Wonder]"],
 },
+
+		{
+		"name": "Oven",
+		"preferredVictoryType": "Domination",
+		"culture": 0,
+		"faith": 0,
+		"food": 10,
+		"gold": 10,
+		"happiness": 7,
+		"production": 9,
+		"science": 3,
+		"military": 15,
+		
+		},
+		"warMongering": 4
 ]
