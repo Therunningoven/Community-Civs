@@ -425,4 +425,20 @@
 			"Turn this tile into a [Forest] tile <by consuming this unit>",
 			"Cost increases by [10] per owned city","Cost increases by [15] when built"]
 	},
+
+	  {
+		"name": "Oven warrrior",
+		"uniqueTo": "Ovenland",
+		"unitType": "Siege",
+		"replaces": "Trebuchet",
+		"movement": 3,
+		"strength": 10,
+		"rangedStrength":32 
+		"cost": 120,
+		"promotions": ["Heal Instantly", "Accuracy I", "Accuracy II", "Accuracy III", "Barrage I", "Barrage II", "Barrage III",],
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Cannon",
+		"obsoleteTech": "Chemistry",
+		"attackSound": "Throw"
+ },
 ]
