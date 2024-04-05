@@ -759,5 +759,32 @@
 		"uniques": ["[+1 Happiness] [in all cities] <with [1] to [2] neighboring [Forest] tiles>","[+2 Happiness] [in all cities] <with [3] to [6] neighboring [Forest] tiles>",
 			"[+1 Production] from [Forest] tiles [in all cities] <with [1] to [6] neighboring [City center] tiles>"],
 		"cities": ["Everwood","Verdant Grove","Whispering Pines","Mosswood","Fernhaven","Willowshade","Oakheart","Sunleaf","Briarthorn","Wildroot"]
+	},
+	{ //Therunningoven
+		"name": "Ovenland",
+		"leaderName": "Sprinting Oventon",
+		"adjective": "oveniesque"
+		"outerColor": [105, 98, 110],
+		"innerColor": [235, 94, 23],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Domination",
+		
+		
+		"startIntroPart1": "You are... strange. An oven does not normally run but you sure do!"
+		"startIntroPart2": "However, that demonsrates your ultimate power. If you can run with no legs, you can conquer the world! Your people will be very proud of your power and intelligence."
+		
+		"introduction": "Hello my fellow leader. We do not come in peace but we don't want war either.",
+		"declaringWar": "To some people I make delicious meals. But you only deserve a burn on the hand!",
+		"attacked": "Hey, that hurts. You are brave, but do not cross the line.",
+		"afterPeace": "Are you content? Are you happy now? Because I am. Please don't do that again.",
+		"defeated": "You have defeated a machine of metal and fire. What will you do now? You are almost unstoppable.",
+		
+		"neutralHello": "Hello, what do you want friend?",
+		"hateHello": "You know what? I don't want to talk with you. But if I don't, my kingdom will hate me.",
+		"tradeRequest": "I give you this, you give me that. Okay?",
+
+		"uniqueName": "The power of the oven",
+		"uniques": ["Starts with [Pottery]", "[+1 Production] per [2] population [in capital]"]
+		"cities": ["Oventown", "Toastland", "Furnace City", "Land of The Smelters", "Iron Jacloths", "Microwave usa's", "New Oventown", "New Toastland", "New Furnace City", "New Land of The Smelters", "New Iron Jacloths", "New Microwave usa's"]
 	}
 ]
